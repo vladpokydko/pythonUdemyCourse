@@ -1,2 +1,1 @@
-print ("Hello world")
-print ("again and again")
+print(dir(__builtins__)) #вывести полный список встроенных аттрибутов
